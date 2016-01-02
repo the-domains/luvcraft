@@ -1,0 +1,14 @@
+layout_spectrum: 0.4097808
+typography_spectrum: 0.6207976
+color:
+  lightness: 0.4201792
+  brandStrength: 0.8864654
+  saturation: 0.3994604
+  rhythmicContrast: 0.01514891
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Luvcraft
